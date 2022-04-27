@@ -25,7 +25,7 @@ Se utilizó Bootstrap para dar estilos CSS.
 1 - Clonar el repositorio  
 2 - npm install  
 3 - npm run dev  
-4 - npm install axios
-5 - npm install react-router-dom
-6 - npm install sweetalert
+4 - npm install axios  
+5 - npm install react-router-dom  
+6 - npm install sweetalert  
 
